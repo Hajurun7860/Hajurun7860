@@ -21,8 +21,8 @@
 
 - 📫 How to reach me **dudekulahajurun@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BKUHPdPwfr74JtBLjNpTJ_P8R-K4SUvs/view?usp=drive_link](https://drive.google.com/file/d/1BKUHPdPwfr74JtBLjNpTJ_P8R-K4SUvs/view?usp=drive_link)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BKUHPdPwfr74JtBLjNpTJ_P8R-K4SUvs/view?usp=drive_link]
+(https://docs.google.com/document/d/1RjCn0r9QtysiUoqEbQp3KG56EaSRojtT/edit?usp=drive_link&ouid=104392625542001599744&rtpof=true&sd=true)
 - ⚡ Fun fact **I enjoy turning raw data into meaningful insights and believe every dataset has a story to tell**
 
 <h3 align="left">Connect with me:</h3>
